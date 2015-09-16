@@ -1,0 +1,8 @@
+lock:
+  discussion_locked_notification: "{username} kilitledi"
+  discussion_locked_post: "{username} tartışmayı kilitledi."
+  discussion_unlocked_post: "{username} tartışma kilidini kaldırdı."
+  notify_discussion_locked: Birisi başlattığım tartışmayı kilitlediğinde
+  locked: Kilitli
+  lock: Kilitle
+  unlock: Kilidini Aç

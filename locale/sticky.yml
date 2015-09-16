@@ -1,0 +1,8 @@
+sticky:
+  discussion_stickied_notification: "{username} tartışmayı sabitledi"
+  discussion_stickied_post: "{username} tartışmayı sabitledi."
+  discussion_unstickied_post: "{username} tartışmanın sabitini kaldırdı."
+  notify_discussion_stickied: Birisi başlattığım tartışmayı sabitlediğinde
+  stickied: Sabitlendi
+  sticky: Sabitle
+  unsticky: Sabitini Kaldır

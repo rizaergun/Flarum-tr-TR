@@ -1,0 +1,13 @@
+subscriptions:
+  following: Takip Ediliyor
+  ignoring: Engelli
+  follow: Takip Et
+  unfollow: Takibi Bırak
+  ignore: Engelle
+  notify_new_post: Birisi takip ettiğim tartışmaya cevap yazdığında
+  new_post_notification: "{username} yorum yazdı"
+  not_following: Takip Edilmiyor
+  not_following_description: Sadece sizden bahsedenlerden haberdar olursunuz.
+  following_description: Tüm cevaplardan haberdar olursunuz.
+  ignoring_description: Hiçbir bildirim almaz ve tartışma listesinden görmezsiniz.
+  unignore: Engeli Kaldır

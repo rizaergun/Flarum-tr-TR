@@ -1,0 +1,4 @@
+pusher:
+  show_updated_discussions:
+    one: "Güncellenen {count} tartışmayı göster"
+    other: "Güncellenen {count} tartışmayı göster"

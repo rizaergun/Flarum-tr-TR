@@ -1,0 +1,12 @@
+likes:
+  post_liked_notification: "{username} yorumunuzu beğendi"
+  post_likes_modal_title: Beğenen Üyeler
+  post_liked_by_self: "{users} beğendi."
+  post_liked_by:
+    one: "{users} beğendi."
+    other: "{users} beğendi."
+  unlike_action: Beğenmekten Vazgeç
+  like_action: Beğen
+  notify_post_liked: Birisi benim yorumu beğendiğinde
+  others: "{count} kişi"
+  you: Sen

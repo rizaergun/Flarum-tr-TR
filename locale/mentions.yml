@@ -1,0 +1,10 @@
+mentions:
+  reply_to_post: "Cevap #{number}"
+  post_mentioned_notification: "{username} yorumunuza cevap yazdı"
+  others: "{count} kişi"
+  user_mentioned_notification: "{username} sizden bahsetti"
+  post_mentioned_by: "{users} cevapladı."
+  you: Sen
+  reply_link: Cevapla
+  notify_post_mentioned: Birisi benim yorumu cevapladığında
+  notify_user_mentioned: Birisi yorumunda benden bahsettiğinde

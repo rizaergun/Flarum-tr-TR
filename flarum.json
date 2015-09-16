@@ -1,0 +1,25 @@
+{
+    "name": "turkish",
+    "title": "Turkish",
+    "description": "Localize Flarum and its extensions into Turkish.",
+    "keywords": [],
+    "version": "0.1.0-beta.2",
+    "author": {
+        "name": "Riza ERGUN",
+        "email": "re@rizaergun.com",
+        "homepage": "http://www.rizaergun.com"
+    },
+    "license": "MIT",
+    "require": {
+        "flarum": ">=0.1.0-beta.2"
+    },
+    "support": {
+        "source": "https://github.com/rizaergun/flarum-tr-TR",
+        "issues": "https://github.com/maelsoucaze/flarum-tr-TR/issues"
+    },
+    "icon": {
+        "name": "globe",
+        "backgroundColor": "#3f51b5",
+        "color": "#fff"
+    }
+}
